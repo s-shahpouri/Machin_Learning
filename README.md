@@ -1,4 +1,5 @@
-**README**
+# **README**
+
 **Introduction**
 
 This repository contains a series of machine learning assignments carried out as part of the course of Data Science 2.
@@ -39,10 +40,15 @@ If you'd like to contribute, please fork the repository and make changes as you'
 **Dependencies**
 
 [NumPy](https://numpy.org/)
+
 [Pandas](https://pandas.pydata.org/)
+
 [Matplotlib](https://matplotlib.org/)
+
 [Seaborn](https://seaborn.pydata.org/)
+
 [Scikit-Learn](https://scikit-learn.org/stable/)
+
 [xgboost](https://xgboost.readthedocs.io/)
 
 
@@ -57,4 +63,5 @@ This project is open-sourced under the [MIT License](https://opensource.org/lice
 
 # Data 
 The data sources are to be found at **assemblix2019:/data/datasets/DS3**
+
 contact information: z.shahpouri@st.hanze.nl
