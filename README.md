@@ -1,5 +1,6 @@
 **README**
 **Introduction**
+
 This repository contains a series of machine learning assignments carried out as part of the course of Data Science 2.
 
 The tasks are based on clustering, manifold learning, text clustering, anomaly detection, and supervised machine learning techniques such as gradient descent, SVC, decision trees, naive bayes, and bagging vs boosting.
@@ -25,6 +26,7 @@ Contains the assignment on decision trees and naive bayes, with different model 
 The final week focuses on the comparison between bagging and boosting, where we implement and evaluate a bagging, boosting, and dummy classifier on a breast cancer dataset.
 
 **Installation & Usage**
+
 To install and run these assignments on your local machine, please follow these steps:
 
 Clone this repository.
@@ -35,23 +37,24 @@ Contributing
 If you'd like to contribute, please fork the repository and make changes as you'd like. Pull requests are warmly welcome.
 
 **Dependencies**
+
 [NumPy](https://numpy.org/)
 [Pandas](https://pandas.pydata.org/)
-[Matplot]lib(https://matplotlib.org/)
+[Matplotlib](https://matplotlib.org/)
 [Seaborn](https://seaborn.pydata.org/)
 [Scikit-Learn](https://scikit-learn.org/stable/)
 [xgboost](https://xgboost.readthedocs.io/)
 
 
 **Credits**
+
 This repository is created and maintained by Sama Shahpouri.
 
 **License**
+
 This project is open-sourced under the [MIT License](https://opensource.org/licenses/MIT).
 
 
 # Data 
 The data sources are to be found at **assemblix2019:/data/datasets/DS3**
-
-
 contact information: z.shahpouri@st.hanze.nl
