@@ -1,0 +1,5 @@
+dataset:
+  path: "C:\\zshahpouri\\Machin_Learning\\Data\\breast-cancer.csv"
+
+image_dataset:
+  path: "C:\\zshahpouri\\Machin_Learning\\Data\\Dataset_BUSI_with_GT"
