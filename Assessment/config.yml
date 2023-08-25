@@ -3,3 +3,15 @@ dataset:
 
 image_dataset:
   path: "C:\\zshahpouri\\Machin_Learning\\Data\\Dataset_BUSI_with_GT"
+
+liver_dataset:
+  path: "C:\\zshahpouri\\Machin_Learning\\Data\\Liver_GSE14520_U133A.csv"
+
+house_dataset:
+  path: "C:\\zshahpouri\\Machin_Learning\\Data\\housing-data.txt"
+
+clinical_report:
+  path: "C:\\zshahpouri\\Machin_Learning\\Data\\MACCROBAT2018"
+
+anomaly_data:
+  path : "C:\\zshahpouri\\Machin_Learning\\Data\\creditcard.csv"
